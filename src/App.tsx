@@ -230,11 +230,12 @@ export default function App() {
             <span className="font-serif text-gray-600 font-medium tracking-widest">Point. 02</span>
           </div>
           <h3 className="font-serif text-3xl md:text-5xl font-bold text-[#222] mb-6 leading-tight text-balance">
-            24시간 우려낸 진한 사골 육수<br/>정성을 다한 수제 방식
+            숟가락이 먼저 아는 농도
+한 수저에 담긴 하루의 깊이
           </h3>
           <p className="text-gray-600 text-lg mb-16 max-w-2xl mx-auto leading-relaxed">
-            기계로 대량 생산하는 방식이 아닙니다.<br className="hidden md:block"/>
-            전통 방식 그대로 24시간 푹 우려내어 깊고 진한 맛을 완성했습니다.
+            하루 종일 불 앞을 지키며 사골의 깊은 맛을 끌어냈습니다. <br className="hidden md:block"/>
+            한우 소고기와 정성만으로 완성한 이 죽은, 끓여 먹는 순간 갓 지은 듯한 온기를 전합니다.
           </p>
 
           <div className="max-w-4xl mx-auto relative rounded-3xl overflow-hidden shadow-xl">
