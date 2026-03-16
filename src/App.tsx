@@ -200,7 +200,7 @@ export default function App() {
             {/* Cards for ingredients */}
             <div className="bg-white/90 backdrop-blur-md p-8 rounded-3xl shadow-lg flex-1 border border-white/50">
               <div className="w-16 h-16 bg-[#F4F3EF] rounded-full flex items-center justify-center mx-auto mb-6">
-                <img src="public/meat (1).png" alt="100% 한우" className="w-full h-full object-cover" />
+                <img src="/beefcongee/meat (1).png" alt="100% 한우" className="w-full h-full object-cover" />
               </div>
               <h4 className="font-serif text-xl font-bold mb-3 text-[#222]">100% 한우</h4>
               <p className="text-gray-700 text-sm font-medium">깊고 진한 맛을 내는<br/>최상급 한우 육수</p>
