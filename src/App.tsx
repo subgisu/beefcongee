@@ -240,13 +240,13 @@ export default function App() {
 
           <div className="max-w-4xl mx-auto relative rounded-3xl overflow-hidden shadow-xl">
             <img 
-              src="https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=2070&auto=format&fit=crop" 
+              src="beefcongee/riceboile.png" 
               alt="Premium Hanwoo Beef Porridge on wooden table" 
               className="w-full h-[400px] object-cover"
               referrerPolicy="no-referrer"
             />
             <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
-              <div className="text-white text-center">
+              <div className="text-black text-center">
                 <p className="font-serif text-5xl md:text-7xl font-bold mb-4">24<span className="text-3xl md:text-4xl font-sans font-normal">시간</span></p>
                 <p className="text-lg md:text-xl font-medium tracking-wide">가장 맛있고 영양이 높은 최적의 시간</p>
               </div>
