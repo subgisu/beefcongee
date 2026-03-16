@@ -198,9 +198,10 @@ export default function App() {
 
           <div className="flex flex-col md:flex-row justify-center gap-6 max-w-5xl mx-auto">
             {/* Cards for ingredients */}
-            <div className="w-16 h-16 rounded-full overflow-hidden mx-auto mb-6">
-  <img src="/beefcongee/meat.png" alt="100% 한우" className="w-full h-full object-cover" />
-</div>
+            <div className="bg-white/90 backdrop-blur-md p-8 rounded-3xl shadow-lg flex-1 border border-white/50">
+              <div className="w-16 h-16 rounded-full overflow-hidden mx-auto mb-6">
+                <img src="/beefcongee/meat.png" alt="100% 한우" className="w-full h-full object-cover" />
+              </div>
               <h4 className="font-serif text-xl font-bold mb-3 text-[#222]">100% 한우</h4>
               <p className="text-gray-700 text-sm font-medium">깊고 진한 맛을 내는<br/>최상급 한우 육수</p>
             </div>
