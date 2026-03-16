@@ -20,6 +20,7 @@ const FadeIn = ({ children, delay = 0, className = "" }: { children: React.React
   </motion.div>
 );
 
+
 const LaurelLeft = ({ className = "" }: { className?: string }) => (
   <svg width="40" height="100" viewBox="0 0 40 100" fill="none" xmlns="http://www.w3.org/2000/svg" className={`text-[#C2B59B] ${className}`}>
     <path d="M35 95 C15 75, 10 35, 35 5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" fill="none"/>
@@ -240,7 +241,7 @@ export default function App() {
 
           <div className="max-w-4xl mx-auto relative rounded-3xl overflow-hidden shadow-xl">
             <img 
-              src="beefcongee/riceboile.png" 
+              src="/beefcongee/riceboile.png"  
               alt="Premium Hanwoo Beef Porridge on wooden table" 
               className="w-full h-[400px] object-cover"
               referrerPolicy="no-referrer"
