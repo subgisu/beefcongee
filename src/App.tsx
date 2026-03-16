@@ -67,7 +67,7 @@ export default function App() {
         <FadeIn delay={0.2} className="w-full max-w-4xl mx-auto relative">
           <div className="aspect-[4/3] md:aspect-[21/9] rounded-t-[100px] md:rounded-t-[200px] overflow-hidden shadow-2xl">
             <img 
-              src="https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=2070&auto=format&fit=crop" 
+              src="/beefcongee/meat.png" 
               alt="Premium Hanwoo Beef Porridge" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
