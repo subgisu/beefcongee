@@ -230,7 +230,7 @@ export default function App() {
             <span className="font-serif text-gray-600 font-medium tracking-widest">Point. 02</span>
           </div>
           <h3 className="font-serif text-3xl md:text-5xl font-bold text-[#222] mb-6 leading-tight text-balance">
-            숟가락이 먼저 아는 농도
+            숟가락이 먼저 아는 농도<br/>
 한 수저에 담긴 하루의 깊이
           </h3>
           <p className="text-gray-600 text-lg mb-16 max-w-2xl mx-auto leading-relaxed">
